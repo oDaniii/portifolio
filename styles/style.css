@@ -136,3 +136,18 @@ body {
     }
 
 }
+
+@media (max-width: 400px) {
+    
+    .cabecalho__menu {
+        justify-content: center;
+    }
+    
+    .apresentacao__conteudo {
+        width: 100%;
+    }
+    
+    .links {
+        width: 200px;
+    }
+}
